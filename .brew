@@ -29,6 +29,7 @@ brew install hub
 brew install rename
 brew install tree
 brew install node
+brew install vim
 
 # Remove outdated versions from the cellar
 brew cleanup
